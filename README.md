@@ -1,4 +1,4 @@
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=5B9BD5&center=true&vCenter=true&width=720&height=50&lines=Hagar+Amr;AI+%26+Machine+Learning+Engineer;ML+%7C+LLMs+%7C+RAG+%7C+NLP+%7C+Computer+Vision" alt="Hagar Amr" /> </a>
+<div> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=5B9BD5&center=true&vCenter=true&width=720&height=50&lines=Hagar+Amr;AI+%26+Machine+Learning+Engineer;ML+%7C+LLMs+%7C+RAG+%7C+NLP+%7C+Computer+Vision" alt="Hagar Amr" /> </a>
 
 <sub>Building production-minded AI systems, from data and models to deployment.</sub>
 
