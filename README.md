@@ -1,9 +1,3 @@
-<div> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=5B9BD5&center=true&vCenter=true&width=720&height=50&lines=Hagar+Amr;AI+%26+Machine+Learning+Engineer;ML+%7C+LLMs+%7C+RAG+%7C+NLP+%7C+Computer+Vision" alt="Hagar Amr" /> </a>
-
-<sub>Building production-minded AI systems, from data and models to deployment.</sub>
-
-<br/><br/>
-
 # 💫 About Me:
 🔭 I’m currently building real-world AI solutions using Machine Learning, LLMs, RAG, NLP, and Computer Vision<br><br>👯 I’m looking to collaborate on impactful AI projects, open-source solutions, and research-driven applications<br><br>🤝 I’m looking to grow further in MLOps, scalable AI systems, and production AI deployment<br><br>🌱 I’m currently exploring Generative AI, Agentic AI, LLM fine-tuning, and advanced ML systems<br><br>💬 Ask me about AI, Machine Learning, RAG, LLMs, NLP, Computer Vision, and Prompt Engineering<br><br>⚡ Fun fact: I love learning complex AI concepts and making them easier for others to understand
 
